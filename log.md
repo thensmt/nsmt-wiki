@@ -27,3 +27,12 @@ Chronological record of all operations. Append-only.
 
 **Source:** User-provided broadcast equipment specs, role definitions, runbook procedures, and Hoopfest event notes.
 **Cross-references:** All pages cross-linked. Every page has inbound links from at least one other page and from index.md.
+
+## [2026-04-06] lint | First Health Check
+
+Ran initial lint pass. Fixed 24 issues:
+- 1 broken link (tech-director.md → sources/)
+- 18 missing cross-references added across 10 pages
+- 1 timeline contradiction clarified (V2 vs Hoopfest)
+- 2 new pages created: systems/castr.md, broadcast/equipment/network.md
+- index.md updated with new page entries

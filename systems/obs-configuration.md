@@ -88,3 +88,5 @@ OBS runs on the same Mac as the scorebug server. **Always use Studio Mode.**
 - [Live Broadcast Runbook](../broadcast/runbooks/live-broadcast.md) — step-by-step broadcast procedure
 - [Tech Director Role](../broadcast/roles/tech-director.md) — who operates OBS
 - [Video Transport Equipment](../broadcast/equipment/video-transport.md) — Elgato and signal chain
+- [Troubleshooting](../broadcast/runbooks/troubleshooting.md) — Common OBS and stream issues
+- [Project Austin](../projects/austin.md) — Standalone operator package that uses these OBS settings

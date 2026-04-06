@@ -12,6 +12,7 @@ Master index of all wiki pages.
 - [Video Transport](broadcast/equipment/video-transport.md) — Teradek Ace 750, YoloBox Extreme, Elgato 4K, signal flow
 - [Power](broadcast/equipment/power.md) — V-mount battery system, adapters, spare battery planning
 - [Comms](broadcast/equipment/comms.md) — Hollyland Solidcom SE wireless intercom
+- [Network](broadcast/equipment/network.md) — GL.iNet travel router, internet setup
 
 ### Roles
 - [Tech Director](broadcast/roles/tech-director.md) — show caller, OBS hotkeys, switcher operator
@@ -44,6 +45,7 @@ Master index of all wiki pages.
 - [OBS Configuration](systems/obs-configuration.md) — Scenes, sources, hotkeys, output settings
 - [Cloud Functions](systems/cloud-functions.md) — Individual function docs, deploy status
 - [IAM and Auth](systems/iam-and-auth.md) — GCP IAM, service accounts, auth flows
+- [Castr](systems/castr.md) — RTMP multistreaming service for live broadcasts
 
 ## Design
 - [NSMT Brand](design/nsmt-brand.md) — Master brand (colors, typography, logos)

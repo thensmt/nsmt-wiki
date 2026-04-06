@@ -107,4 +107,5 @@ Also check:
 - [Comms](../equipment/comms.md) — Hollyland intercom
 - [Power](../equipment/power.md) — battery issues
 - [Tech Director](../roles/tech-director.md) — who handles most troubleshooting
+- [OBS Configuration](../../systems/obs-configuration.md) — scene layout, hotkeys, output settings
 - [Live Broadcast Runbook](live-broadcast.md) — emergency procedures during show

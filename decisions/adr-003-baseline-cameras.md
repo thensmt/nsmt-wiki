@@ -29,3 +29,4 @@ NSMT broadcasts need 2 baseline cameras for court-length coverage. The current i
 
 - [Cameras](../broadcast/equipment/cameras.md) — equipment details
 - [Camera Operator Role](../broadcast/roles/camera-operator.md) — who uses baseline cameras
+- [Power](../broadcast/equipment/power.md) — V-mount battery and adapter compatibility

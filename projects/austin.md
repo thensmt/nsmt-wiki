@@ -26,6 +26,9 @@ Standalone operator package for NSMT livestreams. The goal is a one-command laun
 - [Firebase](../systems/firebase.md) — RTDB for game state, Hosting for overlay/control, Cloud Functions for auth
 - [WebSocket Protocol](../systems/websocket-protocol.md) — Local WS server message format shared with Fastbreak V2
 - [NSMT Brand](../design/nsmt-brand.md) — Colors, typography, and logos used in overlay and control UI
+- [OBS Configuration](../systems/obs-configuration.md) — Scene layout and browser source settings for overlays
+- [Cloud Functions](../systems/cloud-functions.md) — Details on the 6 deployed Cloud Functions
+- [IAM and Auth](../systems/iam-and-auth.md) — GCP service accounts and permissions for Firebase deploy
 
 ## Recent Changes
 

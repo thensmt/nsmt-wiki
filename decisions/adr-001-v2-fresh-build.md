@@ -21,3 +21,4 @@ V2 is a complete ground-up rebuild. No code is carried over from V1. Only V1's f
 ## Cross-References
 
 - [Livestream V2](../projects/fastbreak-v2.md) — the V2 project built from this decision
+- [Fastbreak Design System](../design/fastbreak-design-system.md) — the design system V2 is built on

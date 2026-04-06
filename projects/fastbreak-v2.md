@@ -3,7 +3,7 @@
 **Repo:** `thensmt/nsmt-fastbreak`
 **Location:** `~/NSMT/livestream-v2/`
 **Stack:** Node.js, Express, WebSocket, Tailwind CDN, Space Grotesk + Inter fonts, Material Symbols, obs-websocket-js
-**Status:** Active — Main development branch. First live deployment at Hoopfest 2026-03-22.
+**Status:** Active — Main development branch. V1/prototype was used at Hoopfest 2026-03-22; V2 fresh rebuild started 2026-03-28.
 
 ## What It Does
 
@@ -24,11 +24,12 @@ Ground-up rebuild of the NSMT broadcast system, started 2026-03-28. This is fres
 - [WebSocket Protocol](../systems/websocket-protocol.md) — Message types, state sync, offline queue behavior
 - [OBS Configuration](../systems/obs-configuration.md) — Scene layout, source naming, hotkey bindings, obs-websocket-js integration
 - [Fastbreak Design System](../design/fastbreak-design-system.md) — Design tokens, component patterns, Space Grotesk + Inter typography
+- [NSMT Brand](../design/nsmt-brand.md) — Master brand reference (colors, typography, logos)
 
 ## Recent Changes
 
-- 2026-03-22: Hoopfest broadcast completed successfully — first live NSMT stream using V2.
-- 2026-03-28: Fresh build started with NSMT Fastbreak design system, replacing all V1 patterns.
+- 2026-03-22: [Hoopfest](../broadcast/events/hoopfest-2026-03-22.md) broadcast completed successfully — first live NSMT stream using the V1/prototype system.
+- 2026-03-28: After Hoopfest, decision made to do a ground-up rebuild as V2 rather than retrofit V1. Fresh build started with [NSMT Fastbreak design system](../design/fastbreak-design-system.md), replacing all V1 patterns.
 - 2026-03-28: Server-side auth with 6-digit PIN implemented. Stage scaling added for overlay.
 
 ## Open Issues

@@ -23,3 +23,4 @@ Maintain both WebSocket-based (`nsmt_fox_overlay_ws.html`) and Firebase-based (`
 - [Project Austin](../projects/austin.md) — the project that implements both transport modes
 - [Firebase](../systems/firebase.md) — cloud infrastructure for the Firebase transport
 - [WebSocket Protocol](../systems/websocket-protocol.md) — local transport protocol
+- [Video Transport](../broadcast/equipment/video-transport.md) — YoloBox hardware that drives the Firebase transport need

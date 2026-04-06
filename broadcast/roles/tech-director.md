@@ -47,7 +47,7 @@
 ### Stream Health
 - Monitor OBS Stats dock throughout broadcast
 - Watch for dropped frames and encoding lag
-- Keep backup stream key ready (YouTube fallback if [Castr](../../sources/) has issues)
+- Keep backup stream key ready (YouTube fallback if [Castr](../../systems/castr.md) has issues)
 
 ## Common Issues
 - If camera feed disappears from YoloBox, check [Teradek pairing](../equipment/video-transport.md) and HDMI cables

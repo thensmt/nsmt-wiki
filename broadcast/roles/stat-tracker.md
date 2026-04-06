@@ -35,3 +35,5 @@
 - [Troubleshooting](../runbooks/troubleshooting.md) — overlay connection issues
 - [Pre-Game Runbook](../runbooks/pre-game.md) — software setup steps
 - [Live Broadcast Runbook](../runbooks/live-broadcast.md) — score update flow
+- [Firebase](../../systems/firebase.md) — RTDB backing the YoloBox/cloud control interface
+- [Project Austin](../../projects/austin.md) — the scorebug system the stat tracker operates

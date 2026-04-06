@@ -30,4 +30,5 @@ Firebase provides the real-time database, hosting, and Cloud Functions infrastru
 - [Cloud Functions](cloud-functions.md) — details on the 6 deployed functions
 - [IAM and Auth](iam-and-auth.md) — GCP service accounts and permissions
 - [Project Austin](../projects/austin.md) — primary consumer of Firebase services
+- [Fastbreak V2](../projects/fastbreak-v2.md) — remote overlay mode uses Firebase
 - [ADR-002: Firebase vs WebSocket](../decisions/adr-002-firebase-vs-websocket.md) — decision to support both transports
