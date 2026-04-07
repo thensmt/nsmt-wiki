@@ -1,3 +1,16 @@
+---
+title: Audio
+type: equipment
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - audio
+  - rodecaster
+  - headsets
+  - monitoring
+---
+
 # Audio
 
 ## Mixer — Rodecaster Pro I

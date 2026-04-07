@@ -1,3 +1,15 @@
+---
+title: Design Tokens
+type: design
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - tokens
+  - comparison
+  - design-system
+---
+
 # Design Tokens — Cross-System Comparison
 
 Two design systems serve different NSMT products. This page compares their tokens side-by-side.

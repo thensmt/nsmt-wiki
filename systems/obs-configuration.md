@@ -1,3 +1,16 @@
+---
+title: OBS Configuration
+type: system
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - obs
+  - broadcast
+  - streaming
+  - elgato
+---
+
 # OBS Configuration
 
 OBS runs on the same Mac as the scorebug server. **Always use Studio Mode.**

@@ -1,3 +1,16 @@
+---
+title: Project Austin
+type: project
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - firebase
+  - websocket
+  - operator-package
+  - cloud-functions
+---
+
 # Project Austin
 
 **Repo:** `thensmt/scorebug`

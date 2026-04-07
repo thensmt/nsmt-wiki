@@ -1,3 +1,16 @@
+---
+title: NSMT Fastbreak Design System
+type: design
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - design-system
+  - tailwind
+  - space-grotesk
+  - broadcast
+---
+
 # NSMT Fastbreak Design System
 
 **Used in:** Livestream V2 (`thensmt/nsmt-fastbreak`)

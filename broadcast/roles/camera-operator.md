@@ -1,3 +1,16 @@
+---
+title: Camera Operator
+type: role
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - crew
+  - camera
+  - baseline
+  - top-camera
+---
+
 # Camera Operator
 
 ## Top Camera Operator

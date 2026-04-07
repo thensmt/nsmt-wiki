@@ -1,3 +1,15 @@
+---
+title: Troubleshooting
+type: runbook
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - troubleshooting
+  - fixes
+  - broadcast
+---
+
 # Troubleshooting
 
 Common issues and fixes for NSMT broadcasts. Organized by symptom.

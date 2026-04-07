@@ -1,3 +1,15 @@
+---
+title: "ADR-001: V2 Fresh Build"
+type: decision
+status: accepted
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - architecture
+  - v2
+  - rebuild
+---
+
 # ADR-001: V2 Fresh Build
 
 **Date:** 2026-03-28

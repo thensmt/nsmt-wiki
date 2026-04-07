@@ -1,3 +1,16 @@
+---
+title: Power
+type: equipment
+status: pending
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - battery
+  - v-mount
+  - power
+  - adapters
+---
+
 # Power
 
 ## V-Mount Battery System

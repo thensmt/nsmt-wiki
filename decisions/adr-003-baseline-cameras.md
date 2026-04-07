@@ -1,3 +1,15 @@
+---
+title: "ADR-003: Baseline Cameras"
+type: decision
+status: proposed
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - equipment
+  - cameras
+  - baseline-decision
+---
+
 # ADR-003: Baseline Cameras
 
 **Date:** 2026-03

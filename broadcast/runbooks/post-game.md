@@ -1,3 +1,16 @@
+---
+title: Post-Game Runbook
+type: runbook
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - teardown
+  - recording
+  - debrief
+  - broadcast
+---
+
 # Post-Game Runbook
 
 ---

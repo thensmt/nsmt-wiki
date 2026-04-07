@@ -1,3 +1,15 @@
+---
+title: Pre-Game Setup Runbook
+type: runbook
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - setup
+  - checklist
+  - broadcast
+---
+
 # Pre-Game Setup Runbook
 
 Step-by-step checklist. Start **90 minutes before tip-off** minimum.

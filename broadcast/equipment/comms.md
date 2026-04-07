@@ -1,3 +1,15 @@
+---
+title: Comms
+type: equipment
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - intercom
+  - hollyland
+  - comms
+---
+
 # Comms — Hollyland Solidcom SE
 
 **Model:** Hollyland Solidcom SE

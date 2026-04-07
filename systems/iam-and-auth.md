@@ -1,3 +1,16 @@
+---
+title: IAM and Auth
+type: system
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - gcp
+  - iam
+  - security
+  - auth
+---
+
 # IAM and Auth
 
 ## GCP Projects

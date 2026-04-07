@@ -1,3 +1,16 @@
+---
+title: NSMT Brand
+type: design
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - brand
+  - colors
+  - typography
+  - logos
+---
+
 # NSMT Brand
 
 **Designed by:** Maegan Makes

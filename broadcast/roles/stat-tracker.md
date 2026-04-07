@@ -1,3 +1,16 @@
+---
+title: Stat Tracker
+type: role
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - crew
+  - stats
+  - scorebug
+  - graphics
+---
+
 # Stat Tracker
 
 **Required for minimum crew:** Yes

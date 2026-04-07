@@ -1,3 +1,16 @@
+---
+title: Video Transport
+type: equipment
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - teradek
+  - yolobox
+  - elgato
+  - signal-flow
+---
+
 # Video Transport
 
 ## Signal Flow

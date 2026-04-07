@@ -1,3 +1,16 @@
+---
+title: Network
+type: equipment
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - network
+  - router
+  - internet
+  - glinet
+---
+
 # Network
 
 **Device:** GL.iNet Beryl AX (GL-MT3000) travel router

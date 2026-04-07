@@ -1,3 +1,16 @@
+---
+title: Live Broadcast Runbook
+type: runbook
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - live
+  - switching
+  - replay
+  - broadcast
+---
+
 # Live Broadcast Runbook
 
 Procedures for during the broadcast. The [Tech Director](../roles/tech-director.md) leads all of these.

@@ -1,3 +1,16 @@
+---
+title: Firebase
+type: system
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - firebase
+  - gcp
+  - rtdb
+  - hosting
+---
+
 # Firebase
 
 **GCP Project:** sincere-nirvana-436014-v9 ("The NSMT")
@@ -21,9 +34,20 @@ Firebase provides the real-time database, hosting, and Cloud Functions infrastru
 - [Project Austin](../projects/austin.md) — scorebug overlay and control panels
 - Livestream V2 — remote overlay mode
 
+## Goal: Eliminate MacBook Pro from Broadcast Workflow
+
+The Firebase migration goal is to remove the need for a local MacBook Pro server during broadcasts. With Firebase RTDB + Hosting + Cloud Functions, the YoloBox Extreme loads the overlay URL directly, and the iPad controls via the hosted control hub URL. No local server needed.
+
+### What's Left
+
+1. Resolve 1st Gen vs 2nd Gen function mismatch before next deploy
+2. Finalize overlay design for hosted version
+3. Finalize control hub for hosted version
+4. Push to GitHub Pages or Firebase Hosting for YoloBox integration
+
 ## Open Issues
 
-- **v1 vs v2 API mismatch:** Functions were deployed as 1st Generation but some code may expect 2nd Generation APIs. Needs resolution.
+- **v1 vs v2 API mismatch:** Deployed functions are 1st Gen (firebase-functions v5), but code on disk uses v2 API (firebase-functions v7 / firebase-admin v13). See [Cloud Functions](cloud-functions.md) for resolution options.
 
 ## Cross-References
 

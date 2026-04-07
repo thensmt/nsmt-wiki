@@ -1,3 +1,15 @@
+---
+title: NSMT Content Pipeline
+type: project
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - content
+  - python
+  - contentful
+---
+
 # NSMT Content Pipeline
 
 **Repo:** `thensmt/nsmt-content-pipeline`

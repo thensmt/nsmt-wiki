@@ -1,3 +1,15 @@
+---
+title: Castr
+type: system
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - streaming
+  - rtmp
+  - castr
+---
+
 # Castr
 
 **Service:** [Castr](https://castr.com) — RTMP multistreaming
@@ -6,6 +18,16 @@
 ## What It Does
 
 Castr is the RTMP streaming service used for NSMT events. It receives a single RTMP stream from OBS and multistreams it to YouTube and other platforms simultaneously. This eliminates the need to configure multiple output destinations in OBS directly.
+
+## Configuration
+
+- **Server region:** New York (`ny.castr.io`)
+- **Credentials:** Stored in Castr dashboard only -- retrieve RTMP URL and stream key from the dashboard before each event
+- **First used:** [Hoopfest 2026-03-22](../broadcast/events/hoopfest-2026-03-22.md)
+
+## Why Castr
+
+Chosen over Dacast and Vimeo for lower cost and pay-per-view (PPV) included on the base plan.
 
 ## How It Works
 

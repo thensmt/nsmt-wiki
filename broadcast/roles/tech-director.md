@@ -1,3 +1,16 @@
+---
+title: Tech Director
+type: role
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - crew
+  - production
+  - obs
+  - switching
+---
+
 # Tech Director
 
 **Required for minimum crew:** Yes

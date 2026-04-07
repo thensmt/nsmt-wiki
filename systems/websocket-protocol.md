@@ -1,3 +1,15 @@
+---
+title: WebSocket Protocol
+type: system
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - websocket
+  - real-time
+  - protocol
+---
+
 # WebSocket Protocol
 
 **Used in:** Project Austin (`websocket-server.js`), Livestream V2 (`server.js`)

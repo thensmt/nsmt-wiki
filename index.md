@@ -1,6 +1,6 @@
 # NSMT Wiki — Index
 
-Master index of all wiki pages.
+Master index of all wiki pages. See also: [Dashboard](dashboard.md) (live Dataview queries).
 
 ---
 
@@ -46,6 +46,8 @@ Master index of all wiki pages.
 - [Cloud Functions](systems/cloud-functions.md) — Individual function docs, deploy status
 - [IAM and Auth](systems/iam-and-auth.md) — GCP IAM, service accounts, auth flows
 - [Castr](systems/castr.md) — RTMP multistreaming service for live broadcasts
+- [Google Stitch](systems/google-stitch.md) — UI design tool, exports to ~/Downloads/Stitch/
+- [Figma](systems/figma.md) — Collaborative design tool with MCP integration
 
 ## Design
 - [NSMT Brand](design/nsmt-brand.md) — Master brand (colors, typography, logos)

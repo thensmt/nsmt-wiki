@@ -1,3 +1,16 @@
+---
+title: Kinetic Championship Design System
+type: design
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - design-system
+  - dark-arena
+  - ticketing
+  - lexend
+---
+
 # Kinetic Championship Design System
 
 **Used in:** The Fastbreak App (`thensmt/little-rock`)

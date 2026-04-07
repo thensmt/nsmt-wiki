@@ -1,3 +1,16 @@
+---
+title: "ADR-002: Firebase vs WebSocket"
+type: decision
+status: accepted
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - architecture
+  - firebase
+  - websocket
+  - transport
+---
+
 # ADR-002: Firebase vs WebSocket
 
 **Date:** 2026-04-01

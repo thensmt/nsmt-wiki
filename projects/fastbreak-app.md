@@ -1,3 +1,16 @@
+---
+title: The Fastbreak App (Ticketing)
+type: project
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - ticketing
+  - react
+  - aws
+  - stripe
+---
+
 # The Fastbreak App (Ticketing)
 
 **Repo:** `thensmt/little-rock`

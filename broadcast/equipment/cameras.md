@@ -1,3 +1,16 @@
+---
+title: Cameras
+type: equipment
+status: pending
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - camera
+  - sony
+  - fx3
+  - baseline-decision
+---
+
 # Cameras
 
 ## Top Camera — Sony FX3

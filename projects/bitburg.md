@@ -1,3 +1,16 @@
+---
+title: Bitburg Marketplace
+type: project
+status: active
+created: 2026-04-06
+updated: 2026-04-06
+tags:
+  - marketplace
+  - nextjs
+  - supabase
+  - stripe
+---
+
 # Bitburg Marketplace
 
 **Repo:** `thensmt/bitburg`
@@ -30,5 +43,12 @@ Media professional marketplace application. Connects media professionals with cl
 
 ## Open Issues
 
-- Credential rotation needed before App Store launch — see security audit for affected secrets.
+- **Credential rotation required before App Store launch.** The following credentials were shared through chat and must be regenerated in each service dashboard before production deployment:
+  - Supabase database password
+  - Supabase publishable key
+  - Supabase secret/service role key
+  - Clerk publishable key
+  - Clerk secret key
+
+  New credentials should be entered directly into the production environment -- never through chat.
 - Full production deployment to Vercel not yet complete.
